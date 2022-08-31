@@ -1,0 +1,20 @@
+{
+  "name": "schemtoobjapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/multipart": "^7.1.1",
+    "download": "^8.0.0",
+    "fastify": "^4.5.3",
+    "fs-extra": "^10.1.0",
+    "gltf-pipeline": "^3.0.5",
+    "obj2gltf": "^3.1.4"
+  }
+}
